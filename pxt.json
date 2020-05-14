@@ -4,7 +4,8 @@
     "description": "超声波+RGB彩灯",
     "license": "MIT",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+		"neopixel": "github:Kittenbot/pxt-neopixel#v0.6.13"
     },
     "files": [
         "README.md",
