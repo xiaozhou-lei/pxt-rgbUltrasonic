@@ -5,7 +5,13 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-		"neopixel": "github:Kittenbot/pxt-neopixel#v0.6.13"
+		"neopixel": "github:Kittenbot/pxt-neopixel#v0.6.13",
+		"tm1637": "github:gchen/pxt-tm1637",
+		"ttp229": "github:gchen/pxt-ttp229",
+		"max7219": "github:gchen/pxt-max7219",
+		"tm1650": "github:gchen/pxt-tm1650",
+		"irreveive": "github:gchen/pxt-irreveive",
+		"IR": "github:gchen/pxt-IR"
     },
     "files": [
         "README.md",
