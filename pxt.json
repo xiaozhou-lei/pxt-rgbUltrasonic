@@ -1,0 +1,15 @@
+{
+    "name": "rgbUltrasonic",
+    "version": "1.0.0",
+    "description": "超声波+RGB彩灯",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+		"_locales/zh/rgbUltrasonic-strings.json"
+    ],
+    "public": true
+}
